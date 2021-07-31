@@ -1,8 +1,10 @@
 privacy: public
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/658bdc8e-a689-4cd3-9a65-a4c4733deb3e
+hosting-iri: https://aaltoiic-dev.twinbase.org/658bdc8e-a689-4cd3-9a65-a4c4733deb3e
 name: Ilmatar crane (dev)
-description: "This is a development twin for Ilmatar, feel free to experiment by adding new experimental fields to it. Production twin for Ilmatar is available at https://dtid.org/8782b367-6a91-430d-b64e-15d399d9a6f2 . Proven attributes from this twin can be added to the production twin."
+description: This is a development twin for Ilmatar, feel free to experiment by adding
+  new experimental fields to it. Production twin for Ilmatar is available at https://dtid.org/8782b367-6a91-430d-b64e-15d399d9a6f2
+  . Proven attributes from this twin can be added to the production twin.
 owner:
   name: Aalto-yliopistosäätiö
   website: https://www.aalto.fi
@@ -52,3 +54,5 @@ features:
   description: The website of Ilmatar Open Innovation Environment provides human readable
     descrition about the crane. Further resources available after registration.
   address: https://aalto.fi/ilmatar
+baseurl: https://aaltoiic-dev.twinbase.org
+edit: https://github.com/AaltoIIC/dev-twinbase-for-aaltoiic/edit/main/docs/658bdc8e-a689-4cd3-9a65-a4c4733deb3e/index.yaml
