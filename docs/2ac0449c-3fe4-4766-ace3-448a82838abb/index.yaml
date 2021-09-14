@@ -1,7 +1,5 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
-name: Change me!
-description: Write description here.
+dt-id: https://dtid.org/2ac0449c-3fe4-4766-ace3-448a82838abb
+hosting-iri: https://aaltoiic-dev.twinbase.org/2ac0449c-3fe4-4766-ace3-448a82838abb
 name: RollResearch grinder
 description: Grinding machine for rolls.
 owner:
@@ -9,7 +7,7 @@ owner:
   website: https://www.rollresearch.fi/
 contact:
   name: Thomas Widmaier
-  email: thomas.widmaier@rollresearch.fi 
+  email: thomas.widmaier@rollresearch.fi
 location:
   streetAddress: Otaniemi
   gpsCoordinates: 60.1841° N, 24.8301° E
@@ -22,5 +20,8 @@ relations:
   relationType: parent
 features:
 - name: OPC UA
-  description: OPC UA server allows real-time monitoring and control of the grinding machine
+  description: OPC UA server allows real-time monitoring and control of the grinding
+    machine
   requirement: Access to the same network with grinding machine
+baseurl: https://aaltoiic-dev.twinbase.org
+edit: https://github.com/AaltoIIC/dev-twinbase-for-aaltoiic/edit/main/docs/2ac0449c-3fe4-4766-ace3-448a82838abb/index.yaml
