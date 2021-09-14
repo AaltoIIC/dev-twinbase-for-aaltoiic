@@ -33,6 +33,11 @@
             "requirement": "Access to the same network with grinding machine"
         }
     ],
+    "capabilities": {
+        "max-length": "5m",
+        "max-weight": "5 tons",
+        "capacity": "3 rolls/day"
+    },
     "baseurl": "https://aaltoiic-dev.twinbase.org",
     "edit": "https://github.com/AaltoIIC/dev-twinbase-for-aaltoiic/edit/main/docs/2ac0449c-3fe4-4766-ace3-448a82838abb/index.yaml"
 }
